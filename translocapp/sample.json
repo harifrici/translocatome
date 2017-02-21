@@ -1,0 +1,234 @@
+[
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "secretory-pathway",
+    "Minor_loc": "secretory pathway",
+    "goCode": "GO:secretory_pathway",
+    "exp_sys": "SVM decision tree",
+    "src": "Predicted"
+  },
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "traceable author statement",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "pTarget method",
+    "src": "Predicted"
+  },
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "PAML algorithm",
+    "src": "Predicted"
+  },
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular space",
+    "goCode": "GO:0005615",
+    "exp_sys": "inferred from direct assay",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular matrix",
+    "goCode": "GO:0031012",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "extracellular",
+    "Minor_loc": "proteinaceous extracellular matrix",
+    "goCode": "GO:0005578",
+    "exp_sys": "inferred from electronic annotation",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "O75173",
+    "Major_loc": "membrane",
+    "Minor_loc": "membrane",
+    "goCode": "GO:0016020",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "secretory-pathway",
+    "Minor_loc": "secretory pathway",
+    "goCode": "GO:secretory_pathway",
+    "exp_sys": "SVM decision tree",
+    "src": "Predicted"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "secretory-pathway",
+    "Minor_loc": "Golgi lumen",
+    "goCode": "GO:0005796",
+    "exp_sys": "traceable author statement",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "cytosol",
+    "Minor_loc": "lysosomal lumen",
+    "goCode": "GO:0043202",
+    "exp_sys": "traceable author statement",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "traceable author statement",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "PAML algorithm",
+    "src": "Predicted"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular matrix",
+    "goCode": "GO:0031012",
+    "exp_sys": "inferred from direct assay",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular matrix",
+    "goCode": "GO:0031012",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "extracellular",
+    "Minor_loc": "proteinaceous extracellular matrix",
+    "goCode": "GO:0005578",
+    "exp_sys": "inferred from electronic annotation",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "P16112",
+    "Major_loc": "membrane",
+    "Minor_loc": "membrane",
+    "goCode": "GO:0016020",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "secretory-pathway",
+    "Minor_loc": "secretory pathway",
+    "goCode": "GO:secretory_pathway",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "nucleus",
+    "Minor_loc": "nucleus",
+    "goCode": "GO:0005634",
+    "exp_sys": "inferred from direct assay",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "pTarget method",
+    "src": "Predicted"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular region",
+    "goCode": "GO:0005576",
+    "exp_sys": "PAML algorithm",
+    "src": "Predicted"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular matrix",
+    "goCode": "GO:0031012",
+    "exp_sys": "inferred from direct assay",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "extracellular",
+    "Minor_loc": "extracellular matrix",
+    "goCode": "GO:0031012",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "extracellular",
+    "Minor_loc": "basement membrane",
+    "goCode": "GO:0005604",
+    "exp_sys": "inferred from electronic annotation",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "P35625",
+    "Major_loc": "membrane",
+    "Minor_loc": "membrane",
+    "goCode": "GO:0016020",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "O76061",
+    "Major_loc": "secretory-pathway",
+    "Minor_loc": "secretory pathway",
+    "goCode": "GO:secretory_pathway",
+    "exp_sys": "experimental",
+    "src": "Experimental"
+  },
+  {
+    "UniProtID": "O76061",
+    "Major_loc": "secretory-pathway",
+    "Minor_loc": "endoplasmic reticulum",
+    "goCode": "GO:0005783",
+    "exp_sys": "inferred from electronic annotation",
+    "src": "Unknown"
+  },
+  {
+    "UniProtID": "O76061",
+    "Major_loc": "secretory-pathway",
+    "Minor_loc": "endoplasmic reticulum",
+    "goCode": "GO:0005783",
+    "exp_sys": "annotated protein expression (APE)",
+    "src": "Experimental"
+  }
+]

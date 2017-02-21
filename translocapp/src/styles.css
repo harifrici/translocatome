@@ -1,0 +1,46 @@
+.active{
+  background-color: #090909;
+}
+
+section{
+  height: 300px;
+  text-align: center;
+  padding-top: 50px;
+  color: #fff;
+}
+
+section > div{
+  width: 500px;
+  margin: auto;
+}
+
+.search h1{
+  text-align: center;
+}
+
+.search .input-div{
+  text-align: center;
+}
+
+.search input{
+  text-align: center;
+  width: 250px;
+}
+
+.search .advanced-btn{
+  text-align: center;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.search .advanced-btn button{
+  padding: 5px;
+}
+
+.search .search-result{
+  cursor: pointer;
+}
+
+.navbar{
+  margin-bottom: 0;
+}
